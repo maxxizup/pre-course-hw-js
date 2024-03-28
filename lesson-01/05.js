@@ -10,6 +10,6 @@ switch (true) {
         break;
 
     default:
-        console.log("50 на 50");
+        console.log("«50 на 50»");
         break;
 }
